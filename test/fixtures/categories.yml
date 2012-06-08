@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  slug: MyString
+  title: MyString
+  description: MyString
+  parent: 1
+  post_count: 1
+
+two:
+  slug: MyString
+  title: MyString
+  description: MyString
+  parent: 1
+  post_count: 1
